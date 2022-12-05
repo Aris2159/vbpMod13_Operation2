@@ -1,5 +1,4 @@
-﻿'Sehaj Kohli
-'2022/12/01
+﻿'2022/12/01
 'This is a math game when the start button is pressed then the program will select a number from 0 to 1000
 'the user have to use the options on the side to make the random number to 100 and then the user will win
 'The program will also count how many time you press the button
